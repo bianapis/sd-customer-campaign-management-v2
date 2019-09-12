@@ -1,0 +1,13 @@
+{
+  "requestRecordReference" : "RRR788426",
+  "customerCampaignPortfolioManagementPlanRequestActionTaskReference" : "CCPMPRATR737995",
+  "customerCampaignPortfolioManagementPlanRequestActionTaskRecord" : {},
+  "customerCampaignPortfolio" : {
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignMetrics" : {
+      "customerCampaignMetricDefinition" : "customerCampaignMetricDefinition"
+    }
+  },
+  "requestResponseRecord" : {}
+}

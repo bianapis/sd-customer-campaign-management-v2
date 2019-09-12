@@ -1,0 +1,9 @@
+{
+  "campaignDirectionInstanceRecord" : {
+    "customerCampaignExecutionSchedule" : "customerCampaignExecutionSchedule",
+    "customerCampaignDevelopmentSchedule" : "customerCampaignDevelopmentSchedule"
+  },
+  "campaignDirectionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "campaignDirectionUpdateActionTaskReference" : "CDUATR750778"
+}

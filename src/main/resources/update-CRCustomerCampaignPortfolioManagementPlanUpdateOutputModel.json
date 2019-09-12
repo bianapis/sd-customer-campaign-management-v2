@@ -1,0 +1,21 @@
+{
+  "customerCampaignPortfolioManagementPlanUpdateActionTaskReference" : "CCPMPUATR791366",
+  "customerCampaignPortfolioManagementPlanUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerCampaignPortfolio" : {
+    "customerCampaignPerformanceRecord" : {
+      "customerCampaignProcedureInstanceReference" : {
+        "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+        "employeeBusinessUnitReference" : "758411",
+        "customerCampaignProcedureResult" : "customerCampaignProcedureResult",
+        "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup"
+      }
+    },
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignMetrics" : {
+      "customerCampaignMetricGoal" : "customerCampaignMetricGoal",
+      "customerCampaignMetricDefinition" : "customerCampaignMetricDefinition"
+    }
+  }
+}

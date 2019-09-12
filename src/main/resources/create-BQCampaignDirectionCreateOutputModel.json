@@ -1,0 +1,10 @@
+{
+  "campaignDirectionInitiateActionReference" : "CDIAR748588",
+  "campaignDirectionInstanceRecord" : {
+    "customerCampaignExecutionSchedule" : "customerCampaignExecutionSchedule",
+    "customerCampaignDevelopmentSchedule" : "customerCampaignDevelopmentSchedule"
+  },
+  "campaignDirectionInitiateActionRecord" : {},
+  "campaignDirectionInstanceStatus" : "campaignDirectionInstanceStatus",
+  "campaignDirectionInstanceReference" : "CDIR723347"
+}

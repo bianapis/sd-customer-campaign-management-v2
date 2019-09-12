@@ -1,0 +1,31 @@
+{
+  "customerCampaignPortfolioManagementPlanRetrieveActionTaskRecord" : {},
+  "customerCampaignPortfolioManagementPlanInstanceAnalysis" : {
+    "customerCampaignPortfolioManagementPlanInstanceAnalysisData" : "customerCampaignPortfolioManagementPlanInstanceAnalysisData",
+    "customerCampaignPortfolioManagementPlanInstanceAnalysisReportType" : "customerCampaignPortfolioManagementPlanInstanceAnalysisReportType",
+    "customerCampaignPortfolioManagementPlanInstanceAnalysisReport" : {}
+  },
+  "customerCampaignPortfolioManagementPlanRetrieveActionResponse" : "customerCampaignPortfolioManagementPlanRetrieveActionResponse",
+  "customerCampaignPortfolioManagementPlanRetrieveActionTaskReference" : "CCPMPRATR715397",
+  "customerCampaignPortfolio" : {
+    "customerCampaignPerformanceRecord" : {
+      "customerCampaignProcedureInstanceReference" : {
+        "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+        "employeeBusinessUnitReference" : "725396",
+        "customerCampaignProcedureResult" : "customerCampaignProcedureResult",
+        "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup"
+      }
+    },
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignMetrics" : {
+      "customerCampaignMetricGoal" : "customerCampaignMetricGoal",
+      "customerCampaignMetricDefinition" : "customerCampaignMetricDefinition"
+    }
+  },
+  "customerCampaignPortfolioManagementPlanInstanceReportRecord" : {
+    "customerCampaignPortfolioManagementPlanInstanceReportType" : "customerCampaignPortfolioManagementPlanInstanceReportType",
+    "customerCampaignPortfolioManagementPlanInstanceReportData" : "customerCampaignPortfolioManagementPlanInstanceReportData",
+    "customerCampaignPortfolioManagementPlanInstanceReport" : {}
+  }
+}

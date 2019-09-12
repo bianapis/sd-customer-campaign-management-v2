@@ -1,0 +1,20 @@
+{
+  "customerCampaignPortfolioManagementPlanInstanceReference" : "CCPMPIR760529",
+  "customerCampaignPortfolioManagementPlanCreateActionReference" : "CCPMPCAR774108",
+  "customerCampaignPortfolioManagementPlanCreateActionRecord" : {},
+  "customerCampaignPortfolio" : {
+    "customerCampaignPerformanceRecord" : {
+      "customerCampaignProcedureInstanceReference" : {
+        "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+        "employeeBusinessUnitReference" : "744946",
+        "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup"
+      }
+    },
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignMetrics" : {
+      "customerCampaignMetricDefinition" : "customerCampaignMetricDefinition"
+    }
+  },
+  "customerCampaignPortfolioManagementPlanInstanceStatus" : "customerCampaignPortfolioManagementPlanInstanceStatus"
+}

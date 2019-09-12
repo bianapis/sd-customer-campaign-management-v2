@@ -1,0 +1,17 @@
+{
+  "marketTrackingExecuteActionTaskReference" : "MTEATR765837",
+  "marketTrackingExecuteRecordReference" : "MTERR727442",
+  "executeResponseRecord" : {},
+  "marketTrackingInstanceRecord" : {
+    "marketTrackingWorkTaskWorkProducts" : "marketTrackingWorkTaskWorkProducts",
+    "marketTrackingWorkTaskResult" : "marketTrackingWorkTaskResult",
+    "marketTrackingWorkTask" : {
+      "competitorAnalysisInstanceReference" : "780925",
+      "customerSurveyProcedureInstanceReference" : "736603",
+      "generalMarketResearchDirectoryEntryInstanceReference" : "754205"
+    },
+    "marketTrackingWorkTaskType" : "marketTrackingWorkTaskType",
+    "marketTrackingWorkTaskDateTime" : "09-22-2018"
+  },
+  "marketTrackingExecuteActionTaskRecord" : {}
+}

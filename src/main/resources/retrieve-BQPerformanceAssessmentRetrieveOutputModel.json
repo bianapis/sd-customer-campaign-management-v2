@@ -1,0 +1,24 @@
+{
+  "performanceAssessmentRetrieveActionTaskRecord" : {},
+  "performanceAssessmentInstanceRecord" : {
+    "performanceAssessmentWorkTask" : "performanceAssessmentWorkTask",
+    "performanceAssessmentWorkTaskResult" : "performanceAssessmentWorkTaskResult",
+    "performanceAssessmentWorkTaskDateTime" : "09-22-2018",
+    "performanceAssessmentWorkTaskWorkProducts" : "performanceAssessmentWorkTaskWorkProducts",
+    "performanceAssessmentWorkTaskType" : "performanceAssessmentWorkTaskType"
+  },
+  "performanceAssessmentInstanceReport" : {
+    "performanceAssessmentInstanceReportType" : "performanceAssessmentInstanceReportType",
+    "performanceAssessmentInstanceReport" : {},
+    "performanceAssessmentInstanceReportParameters" : "performanceAssessmentInstanceReportParameters",
+    "performanceAssessmentInstanceReportRecord" : {}
+  },
+  "performanceAssessmentRetrieveActionResponse" : "performanceAssessmentRetrieveActionResponse",
+  "performanceAssessmentRetrieveActionTaskReference" : "PARATR779056",
+  "performanceAssessmentInstanceAnalysis" : {
+    "performanceAssessmentInstanceAnalysisReportType" : "performanceAssessmentInstanceAnalysisReportType",
+    "performanceAssessmentInstanceAnalysisReport" : {},
+    "performanceAssessmentInstanceAnalysisRecord" : {},
+    "performanceAssessmentInstanceAnalysisParameters" : "performanceAssessmentInstanceAnalysisParameters"
+  }
+}

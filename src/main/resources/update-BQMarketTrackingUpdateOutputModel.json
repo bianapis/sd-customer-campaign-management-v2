@@ -1,0 +1,19 @@
+{
+  "marketTrackingInstanceRecord" : {
+    "marketTrackingWorkTaskWorkProducts" : "marketTrackingWorkTaskWorkProducts",
+    "marketTrackingWorkTaskResult" : "marketTrackingWorkTaskResult",
+    "marketTrackingWorkTask" : {
+      "competitorAnalysisInstanceReference" : "750513",
+      "generalMarketResearchDirectoryEntryInstanceRecord" : {},
+      "customerSurveyProcedureInstanceReference" : "786265",
+      "generalMarketResearchDirectoryEntryInstanceReference" : "762346",
+      "customerSurveyProcedureInstanceRecord" : {},
+      "competitorAnalysisInstanceRecord" : {}
+    },
+    "marketTrackingWorkTaskType" : "marketTrackingWorkTaskType",
+    "marketTrackingWorkTaskDateTime" : "09-22-2018"
+  },
+  "updateResponseRecord" : {},
+  "marketTrackingUpdateActionTaskReference" : "MTUATR742443",
+  "marketTrackingUpdateActionTaskRecord" : {}
+}

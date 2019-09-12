@@ -1,0 +1,31 @@
+{
+  "marketTrackingRetrieveActionTaskReference" : "MTRATR721869",
+  "marketTrackingRetrieveActionTaskRecord" : {},
+  "marketTrackingRetrieveActionResponse" : "marketTrackingRetrieveActionResponse",
+  "marketTrackingInstanceAnalysis" : {
+    "marketTrackingInstanceAnalysisReportType" : "marketTrackingInstanceAnalysisReportType",
+    "marketTrackingInstanceAnalysisParameters" : "marketTrackingInstanceAnalysisParameters",
+    "marketTrackingInstanceAnalysisRecord" : {},
+    "marketTrackingInstanceAnalysisReport" : {}
+  },
+  "marketTrackingInstanceRecord" : {
+    "marketTrackingWorkTaskWorkProducts" : "marketTrackingWorkTaskWorkProducts",
+    "marketTrackingWorkTaskResult" : "marketTrackingWorkTaskResult",
+    "marketTrackingWorkTask" : {
+      "competitorAnalysisInstanceReference" : "706937",
+      "generalMarketResearchDirectoryEntryInstanceRecord" : {},
+      "customerSurveyProcedureInstanceReference" : "723123",
+      "generalMarketResearchDirectoryEntryInstanceReference" : "784546",
+      "customerSurveyProcedureInstanceRecord" : {},
+      "competitorAnalysisInstanceRecord" : {}
+    },
+    "marketTrackingWorkTaskType" : "marketTrackingWorkTaskType",
+    "marketTrackingWorkTaskDateTime" : "09-22-2018"
+  },
+  "marketTrackingInstanceReport" : {
+    "marketTrackingInstanceReportRecord" : {},
+    "marketTrackingInstanceReport" : {},
+    "marketTrackingInstanceReportParameters" : "marketTrackingInstanceReportParameters",
+    "marketTrackingInstanceReportType" : "marketTrackingInstanceReportType"
+  }
+}

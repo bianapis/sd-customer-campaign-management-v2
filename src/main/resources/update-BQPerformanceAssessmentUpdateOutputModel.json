@@ -1,0 +1,12 @@
+{
+  "performanceAssessmentUpdateActionTaskRecord" : {},
+  "performanceAssessmentInstanceRecord" : {
+    "performanceAssessmentWorkTask" : "performanceAssessmentWorkTask",
+    "performanceAssessmentWorkTaskResult" : "performanceAssessmentWorkTaskResult",
+    "performanceAssessmentWorkTaskDateTime" : "09-22-2018",
+    "performanceAssessmentWorkTaskWorkProducts" : "performanceAssessmentWorkTaskWorkProducts",
+    "performanceAssessmentWorkTaskType" : "performanceAssessmentWorkTaskType"
+  },
+  "updateResponseRecord" : {},
+  "performanceAssessmentUpdateActionTaskReference" : "PAUATR746714"
+}

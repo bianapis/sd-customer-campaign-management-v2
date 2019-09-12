@@ -1,0 +1,13 @@
+{
+  "performanceAssessmentRequestRecordReference" : "PARRR746975",
+  "performanceAssessmentInstanceRecord" : {
+    "performanceAssessmentWorkTask" : "performanceAssessmentWorkTask",
+    "performanceAssessmentWorkTaskResult" : "performanceAssessmentWorkTaskResult",
+    "performanceAssessmentWorkTaskDateTime" : "09-22-2018",
+    "performanceAssessmentWorkTaskWorkProducts" : "performanceAssessmentWorkTaskWorkProducts",
+    "performanceAssessmentWorkTaskType" : "performanceAssessmentWorkTaskType"
+  },
+  "performanceAssessmentRequestActionTaskRecord" : {},
+  "performanceAssessmentRequestActionTaskReference" : "PARATR721328",
+  "requestResponseRecord" : {}
+}

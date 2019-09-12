@@ -1,0 +1,10 @@
+{
+  "campaignDirectionInstanceRecord" : {
+    "customerCampaignExecutionSchedule" : "customerCampaignExecutionSchedule",
+    "customerCampaignDevelopmentSchedule" : "customerCampaignDevelopmentSchedule"
+  },
+  "campaignDirectionRequestRecordReference" : "CDRRR758532",
+  "campaignDirectionRequestActionTaskRecord" : {},
+  "campaignDirectionRequestActionTaskReference" : "CDRATR748398",
+  "requestResponseRecord" : {}
+}
